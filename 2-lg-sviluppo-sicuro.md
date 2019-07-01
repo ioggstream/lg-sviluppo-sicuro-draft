@@ -385,7 +385,7 @@ Token Valore generato per identificare univocamente una sessione interattiva.
 **_Tabella 2 – Definizioni_**
 
 
-### 3.2 ACRONIMI..............................................................................................................................................................
+### 3.2 ACRONIMI
 
 Codice Titolo
 
